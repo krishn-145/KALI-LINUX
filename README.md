@@ -3,7 +3,6 @@
 </p>
 
 # Kali Linux (proot-distro)
-
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Termux Supported](https://img.shields.io/badge/Termux-Supported-brightgreen)](https://termux.com)
 [![Kali Rolling](https://img.shields.io/badge/Kali-Rolling-blueviolet)](https://www.kali.org)
