@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/nethunter.png" alt="Kali NetHunter">
+  <img src="nethunter.png" alt="Kali NetHunter">
 </p>
 
-# Kali Linux Installer for Termux (proot-distro)
+# Kali Linux (proot-distro)
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Termux Supported](https://img.shields.io/badge/Termux-Supported-brightgreen)](https://termux.com)
