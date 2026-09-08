@@ -3,6 +3,11 @@
 </p>
 
 # Kali Linux (proot-distro)
+---
+**KRISHN**
+---
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ur_.krishn._02)
+---
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Termux Supported](https://img.shields.io/badge/Termux-Supported-brightgreen)](https://termux.com)
 [![Kali Rolling](https://img.shields.io/badge/Kali-Rolling-blueviolet)](https://www.kali.org)
